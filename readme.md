@@ -1,4 +1,4 @@
-gcloud config set project arbitrator-251115
+Arbitrator aggregator
 
 deploy a virtual environment
 ```
