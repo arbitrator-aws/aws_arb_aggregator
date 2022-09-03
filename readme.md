@@ -53,3 +53,4 @@ aws lambda publish-layer-version \
 --description "Python 3.6.9 layer: pydeps and collector_functions" \
 --content S3Bucket=arbitrator-store,S3Key=lambda/layers/arbitrator_aggregator/arbitrator_aggregator_common.zip \
 --compatible-runtimes python3.6
+tst
